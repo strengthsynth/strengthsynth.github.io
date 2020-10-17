@@ -15,7 +15,7 @@ Transferring to a school down in sunny Georgia two years later, I felt like a ne
 
 While in Wisconsin, I had not yet dived into all things health and fitness so I didn’t even consider using light devices, Vitamin D supplementation, still exposing myself to outside light etc. Once I had explored this area, in hindsight I realised I could chalk a lot of the issues I was having to probably having extremely low Vitamin D levels, and not getting enough sunlight.
 
-But what does this have to do with you? Well, the sun gets a bad rap due to the message of avoidance because of skin ageing and cancer; However, what follows are the reasons I believe getting a little more sun exposure will contribute to transforming your health, fitness, and performance:
+But what does this have to do with you? Well, the sun gets a bad rap due to the message of avoidance because of skin ageing and cancer; However, what follows are the reasons I believe getting a little more sun exposure will contribute to **transforming your *health, fitness, and performance***:
 
 **Vitamin D**
 =============
