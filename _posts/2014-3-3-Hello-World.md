@@ -71,3 +71,12 @@ For example, there has been a few studies showing the ability of different wavel
 
 >*“whole-body UV-A irradiation was reportedly able to cause a reduction in blood pressure in humans during exposure, and for some time after” (Holliman, 2017)*
 
+**Red Light Therapy**
+=====================
+
+There’s a buzz around ‘Red light therapy’, and there’s a good reason for it. Red light therapy and/or near infrared red light therapy has been heavily studied and been shown to fight chronic fatigue, chronic pain, fibromyalgia, inflammation, have anti-ageing skin effects, benefit brain function, and have some impressive benefits for muscle and strength gain along with recovery. (Whitten, 2018)
+
+>*“Combats inflammation, helps prevent the buildup of free radicals, and ultimately makes your cells healthier, more energetic, and more resilient” (Whitten, 2018)*
+
+Well rather than buying an expensive Joov red light box, you can go get some sun exposure which also contains these amazing wavelengths of light, but is free of charge. 
+
