@@ -17,7 +17,7 @@ While in Wisconsin, I had not yet dived into all things health and fitness so I 
 
 But what does this have to do with you? Well, the sun gets a bad rap due to the message of avoidance because of skin ageing and cancer; However, what follows are the reasons I believe getting a little more sun exposure will contribute to transforming your health, fitness, and performance:
 
-**<h2>Vitamin D<h2>**
+**##Vitamin D##**
 
 This is the most obvious benefit of getting sunlight exposure. It benefits our: hormones, muscle growth, gut health, respiratory health, oral health, immune system and disease prevention; showing a reduction in the risk of C-V disease, hypertension, and metabolic syndrome separately of supplementation. Interestingly enough, the vitamin D that is produced in your skin can enhance DNA repair and paradoxically lower your risk of cancer! (Hoel et al., 2016)
 
