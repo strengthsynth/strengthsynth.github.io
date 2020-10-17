@@ -109,6 +109,7 @@ How long is that? The ideal amount of sun exposure is going to be different for 
 The majority of articles tend to sit at around 15 minutes of midday sun exposure. But again, this will vary from individual to individual and I believe you are going to be the best judge of how much sun exposure you should be getting without getting burnt. 
 
 >*“4,000 IU vitamin D3 without sun exposure or 2,000 IU plus 12–15 minutes of midday sun.” (Mead, 2008)*
+
 >*“In January, across Australia, 2-14 minutes of sun three to four times per week at 12:00 is sufficient to ensure recommended vitamin D production in fair-skinned people with 15% of the body exposed” (Samanek et al., 2006)*
 
 I also really like Catherine Shanahan’s (author of *‘Deep Nutrition’*) strategy of optimising your diet (avoiding veggie oils and sugar and consuming lots of antioxidants and nutrients that protect collagen damage from UV radiation – Vit C, omega-2 fatty acids, Vit A, glutathione etc) and *‘gradually coaxing your body into manufacturing more skin pigment melanin’*. 
