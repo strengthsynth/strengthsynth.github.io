@@ -51,3 +51,12 @@ Prevent autoimmune diseases, treat skin disorders, and despite what you’ve bee
 
 >*“Increased sun or UVR exposure is associated with reduced development and/or severity of immune-driven diseases including autoimmune diseases such as arthritis, inflammatory bowel disease, multiple sclerosis and allergic conditions such as asthma, and anaphylaxis” (Fleury et al., 2016)*
 
+**Endorphins**
+==============
+
+This one is pretty self-explanatory, but endorphins (our body’s natural ‘feel good’ hormones) are released from sun exposure– so it helps you feel great.
+
+There are melanocytes in your skin that have an endorphin receptor system allowing this to happen.
+
+>*Melanocytes in human skin express a fully functioning endorphin receptor system, according to the June 2003 Journal of Investigative Dermatology*
+
