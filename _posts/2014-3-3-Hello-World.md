@@ -60,3 +60,14 @@ There are melanocytes in your skin that have an endorphin receptor system allowi
 
 >*Melanocytes in human skin express a fully functioning endorphin receptor system, according to the June 2003 Journal of Investigative Dermatology*
 
+**Nitric Oxide**
+================
+
+Layers of your skin contain nitrite, when exposed to sunlight this leads to a reaction where nitric oxide is released into your body’s circulation (Monaghan et al., 2018) (Holliman, 2017)
+
+Why is this a good thing? Nitric oxide has a role in your cardiovascular system by opening blood vessels (more blood flow/more nutrients to muscles etc.) and also contributes to the health, and optimal functioning of your lungs, immune system, nervous system, GI tract, sexual health and so on.
+
+For example, there has been a few studies showing the ability of different wavelengths of the sun to reduce blood pressure – imagine how many people with high blood pressure could benefit from a bit more sun exposure!
+
+>*“whole-body UV-A irradiation was reportedly able to cause a reduction in blood pressure in humans during exposure, and for some time after” (Holliman, 2017)*
+
