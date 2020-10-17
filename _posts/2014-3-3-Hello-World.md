@@ -89,3 +89,32 @@ In *‘Supertraining’*, Siff & Verkhoshansky discuss how the highest trainabil
 
 My guess is that the combination of benefits discussed above contribute to these higher levels of trainability, which means progressing faster and recovering more efficiently!
 
+*But what about cancer, the need for sunscreen, and premature skin ageing that we are constantly told to worry about?*
+=====================================================================================================================
+
+As with anything, it comes down to moderation and finding balance. Some exposure is going to be beneficial and elicit all of these amazing benefits, while too much is always going to carry the increased risk for skin damage and melanoma.
+
+Non-burning sun exposure is associated with a reduced risk of melanoma, while sunburns are associated with a doubling of the risk of melanoma. (Gandini et al., 2005)
+Interestingly enough, there isn’t even considerable evidence of sunscreen being that effective and applying sunscreen could be contributing to skin damage because you’re spending longer in the sun thinking you’re completely protected (damage can still occur without you getting burnt).
+
+>*"We can find no consistent evidence that use of chemical sunscreens reduces the risk of melanoma.” (Hoel et al., 2016)*
+
+*So what’s the best way to get some sun?*
+=========================================
+
+An approach to getting some sun exposure without over exposure.
+
+How long is that? The ideal amount of sun exposure is going to be different for everybody. There are many factors involved, including skin colour, geographical location, time of year, time of day etc.
+
+The majority of articles tend to sit at around 15 minutes of midday sun exposure. But again, this will vary from individual to individual and I believe you are going to be the best judge of how much sun exposure you should be getting without getting burnt. 
+
+>*“4,000 IU vitamin D3 without sun exposure or 2,000 IU plus 12–15 minutes of midday sun.” (Mead, 2008)*
+>*“In January, across Australia, 2-14 minutes of sun three to four times per week at 12:00 is sufficient to ensure recommended vitamin D production in fair-skinned people with 15% of the body exposed” (Samanek et al., 2006)*
+
+I also really like Catherine Shanahan’s (author of *‘Deep Nutrition’*) strategy of optimising your diet (avoiding veggie oils and sugar and consuming lots of antioxidants and nutrients that protect collagen damage from UV radiation – Vit C, omega-2 fatty acids, Vit A, glutathione etc) and *‘gradually coaxing your body into manufacturing more skin pigment melanin’*. 
+
+Why? Because if you are more acclimatised to UV radiation then you aren’t as at risk of sunburn.
+
+>*Antioxidants including polyphenols, apigenin, curcumin, proanthocyanidins, resveratrol, and silymarin have shown promise in laboratory studies in protecting against UVR-induced skin cancer, perhaps through antimutagenic or immune-modulating mechanisms. (Mead, 2008)*
+
+**The sun plays a critical role in your health, fitness, and performance…go enjoy it (in moderation).**
