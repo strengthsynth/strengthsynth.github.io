@@ -80,3 +80,12 @@ There’s a buzz around ‘Red light therapy’, and there’s a good reason for
 
 Well rather than buying an expensive Joov red light box, you can go get some sun exposure which also contains these amazing wavelengths of light, but is free of charge. 
 
+*What does all of this have to do with training and working out?*
+=================================================================
+
+As I always preach, the healthier you are as a whole system, the better your training will be and the greater progress you will make for whatever health/fitness pursuit you are on.
+
+In *‘Supertraining’*, Siff & Verkhoshansky discuss how the highest trainability (faster and better adaptations to training) occurred during summer and autumn months (more UV radiation) and the lowest trainability occurred in the winter.
+
+My guess is that the combination of benefits discussed above contribute to these higher levels of trainability, which means progressing faster and recovering more efficiently!
+
