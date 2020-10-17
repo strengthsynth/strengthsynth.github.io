@@ -122,6 +122,7 @@ Why? Because if you are more acclimatised to UV radiation then you aren’t as a
 
 
 **References**
+---------------
 
 1. Hoel, D. G., Berwick, M., de Gruijl, F. R., & Holick, M. F. (2016). The risks and benefits of sun exposure 2016. Dermato-endocrinology, 8(1), e1248325. https://doi.org/10.1080/19381980.2016.1248325
 2. Mead M. N. (2008). Benefits of sunlight: a bright spot for human health. Environmental health perspectives, 116(4), A160–A167. https://doi.org/10.1289/ehp.116-a160
