@@ -121,7 +121,8 @@ Why? Because if you are more acclimatised to UV radiation then you aren’t as a
 **The sun plays a critical role in your health, fitness, and performance…go enjoy it (in moderation).**
 =====================================================================================================
 
-
+&nbsp
+&nbsp
 
 
 **References**
