@@ -17,6 +17,8 @@ While in Wisconsin, I had not yet dived into all things health and fitness so I 
 
 But what does this have to do with you? Well, the sun gets a bad rap due to the message of avoidance because of skin ageing and cancer; However, what follows are the reasons I believe getting a little more sun exposure will contribute to **transforming your *health, fitness, and performance***:
 
+<br/>
+
 **Vitamin D**
 =============
 This is the most obvious benefit of getting sunlight exposure. It benefits our: hormones, muscle growth, gut health, respiratory health, oral health, immune system and disease prevention; showing a reduction in the risk of C-V disease, hypertension, and metabolic syndrome separately of supplementation. Interestingly enough, the vitamin D that is produced in your skin can enhance DNA repair and paradoxically lower your risk of cancer! (Hoel et al., 2016)
@@ -30,6 +32,8 @@ Now Vitamin D supplementation is probably going to be useful for a lot of people
 
 If you do live in a geographical location where there isn’t much sun, this is where it becomes even more important to consume Vitamin D-rich foods such as pasture-raised egg yolks, wild-caught salmon, liver etc.
 
+<br/>
+
 **Sleep/Melatonin/Circadian Rhythm**
 ====================================
 
@@ -42,6 +46,8 @@ The various kinds of wavelengths/types of light that are emitted from the sun ar
 
 The various kinds of wavelengths/types of light that are emitted from the sun are always going to be superior to the ones you’re receiving from indoor LED lighting.
 
+<br/>
+
 **Immune Function**
 ===================
 
@@ -51,6 +57,8 @@ Prevent autoimmune diseases, treat skin disorders, and despite what you’ve bee
 
 >*“Increased sun or UVR exposure is associated with reduced development and/or severity of immune-driven diseases including autoimmune diseases such as arthritis, inflammatory bowel disease, multiple sclerosis and allergic conditions such as asthma, and anaphylaxis” (Fleury et al., 2016)*
 
+<br/>
+
 **Endorphins**
 ==============
 
@@ -59,6 +67,8 @@ This one is pretty self-explanatory, but endorphins (our body’s natural ‘fee
 There are melanocytes in your skin that have an endorphin receptor system allowing this to happen.
 
 >*Melanocytes in human skin express a fully functioning endorphin receptor system, according to the June 2003 Journal of Investigative Dermatology*
+
+<br/>
 
 **Nitric Oxide**
 ================
@@ -71,6 +81,8 @@ For example, there has been a few studies showing the ability of different wavel
 
 >*“whole-body UV-A irradiation was reportedly able to cause a reduction in blood pressure in humans during exposure, and for some time after” (Holliman, 2017)*
 
+<br/>
+
 **Red Light Therapy**
 =====================
 
@@ -79,6 +91,8 @@ There’s a buzz around ‘Red light therapy’, and there’s a good reason for
 >*“Combats inflammation, helps prevent the buildup of free radicals, and ultimately makes your cells healthier, more energetic, and more resilient” (Whitten, 2018)*
 
 Well rather than buying an expensive Joov red light box, you can go get some sun exposure which also contains these amazing wavelengths of light, but is free of charge. 
+
+<br/>
 
 *What does all of this have to do with training and working out?*
 =================================================================
@@ -89,6 +103,8 @@ In *‘Supertraining’*, Siff & Verkhoshansky discuss how the highest trainabil
 
 My guess is that the combination of benefits discussed above contribute to these higher levels of trainability, which means progressing faster and recovering more efficiently!
 
+<br/>
+
 *But what about cancer, the need for sunscreen, and premature skin ageing that we are constantly told to worry about?*
 =====================================================================================================================
 
@@ -98,6 +114,8 @@ Non-burning sun exposure is associated with a reduced risk of melanoma, while su
 Interestingly enough, there isn’t even considerable evidence of sunscreen being that effective and applying sunscreen could be contributing to skin damage because you’re spending longer in the sun thinking you’re completely protected (damage can still occur without you getting burnt).
 
 >*"We can find no consistent evidence that use of chemical sunscreens reduces the risk of melanoma.” (Hoel et al., 2016)*
+
+<br/>
 
 *So what’s the best way to get some sun?*
 =========================================
@@ -117,6 +135,9 @@ I also really like Catherine Shanahan’s (author of *‘Deep Nutrition’*) str
 Why? Because if you are more acclimatised to UV radiation then you aren’t as at risk of sunburn.
 
 >*Antioxidants including polyphenols, apigenin, curcumin, proanthocyanidins, resveratrol, and silymarin have shown promise in laboratory studies in protecting against UVR-induced skin cancer, perhaps through antimutagenic or immune-modulating mechanisms. (Mead, 2008)*
+
+<br/>
+<br/>
 
 **The sun plays a critical role in your health, fitness, and performance…go enjoy it (in moderation).**
 =====================================================================================================
