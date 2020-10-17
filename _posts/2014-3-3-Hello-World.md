@@ -29,3 +29,16 @@ Now Vitamin D supplementation is probably going to be useful for a lot of people
 >*“supplements are not an effective substitute for adequate sun exposure” (Hoel et al., 2016)*
 
 If you do live in a geographical location where there isn’t much sun, this is where it becomes even more important to consume Vitamin D-rich foods such as pasture-raised egg yolks, wild-caught salmon, liver etc.
+
+**Sleep/Melatonin/Circadian Rhythm**
+====================================
+
+Melatonin is a key hormone involved in your circadian rhythms (the cycles of many inner processes) and thus a big contributor to how well you sleep.
+
+Getting some light exposure (from the sun) in the morning and evening (sunrise/sunset is ideal) can assist in your nighttime melatonin production, helping you enter into sleep more easily, along with the other benefits associated with improved circadian rhythms (think mood, energy levels, etc). This hormone also contributes significantly to an improved immune system (Mead, 2008).
+
+>*Scientists such as Dr Huberman describe morning light exposure as being a ‘game changer’, supporting your mood, digestion, cognitive and physical performance. 
+The various kinds of wavelengths/types of light that are emitted from the sun are always going to be superior to the ones you’re receiving from indoor LED lighting.*
+
+The various kinds of wavelengths/types of light that are emitted from the sun are always going to be superior to the ones you’re receiving from indoor LED lighting.
+
