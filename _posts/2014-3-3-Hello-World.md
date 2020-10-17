@@ -42,3 +42,12 @@ The various kinds of wavelengths/types of light that are emitted from the sun ar
 
 The various kinds of wavelengths/types of light that are emitted from the sun are always going to be superior to the ones you’re receiving from indoor LED lighting.
 
+**Immune Function**
+===================
+
+We’ve already looked at how Melatonin and Vitamin D have positive effects on your immune system, but there are also components of the sun, such as the red light/near infrared light wavelengths that have beneficial effects. Either way, through whatever mechanism, there’s evidence of sun exposure to:
+
+Prevent autoimmune diseases, treat skin disorders, and despite what you’ve been told, reduce melanoma risk! (Mead, 2008)
+
+>*“Increased sun or UVR exposure is associated with reduced development and/or severity of immune-driven diseases including autoimmune diseases such as arthritis, inflammatory bowel disease, multiple sclerosis and allergic conditions such as asthma, and anaphylaxis” (Fleury et al., 2016)*
+
