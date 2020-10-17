@@ -19,3 +19,13 @@ But what does this have to do with you? Well, the sun gets a bad rap due to the 
 
 **<h2>Vitamin D<h2>**
 
+This is the most obvious benefit of getting sunlight exposure. It benefits our: hormones, muscle growth, gut health, respiratory health, oral health, immune system and disease prevention; showing a reduction in the risk of C-V disease, hypertension, and metabolic syndrome separately of supplementation. Interestingly enough, the vitamin D that is produced in your skin can enhance DNA repair and paradoxically lower your risk of cancer! (Hoel et al., 2016)
+
+There are thousands of genes in the body that have a receptor for Vitamin D.
+
+In other words, if you’re not getting adequate Vitamin D, you’re doing your body a huge disservice! (As I found out)
+Now Vitamin D supplementation is probably going to be useful for a lot of people but, at the same time, getting adequate Vitamin D from the sun is going to be superior to getting it from supplement form.
+
+>*“supplements are not an effective substitute for adequate sun exposure” (Hoel et al., 2016)*
+
+If you do live in a geographical location where there isn’t much sun, this is where it becomes even more important to consume Vitamin D-rich foods such as pasture-raised egg yolks, wild-caught salmon, liver etc.
