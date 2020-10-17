@@ -119,3 +119,19 @@ Why? Because if you are more acclimatised to UV radiation then you aren’t as a
 >*Antioxidants including polyphenols, apigenin, curcumin, proanthocyanidins, resveratrol, and silymarin have shown promise in laboratory studies in protecting against UVR-induced skin cancer, perhaps through antimutagenic or immune-modulating mechanisms. (Mead, 2008)*
 
 **The sun plays a critical role in your health, fitness, and performance…go enjoy it (in moderation).**
+
+
+**References**
+
+1. Hoel, D. G., Berwick, M., de Gruijl, F. R., & Holick, M. F. (2016). The risks and benefits of sun exposure 2016. Dermato-endocrinology, 8(1), e1248325. https://doi.org/10.1080/19381980.2016.1248325
+2. Mead M. N. (2008). Benefits of sunlight: a bright spot for human health. Environmental health perspectives, 116(4), A160–A167. https://doi.org/10.1289/ehp.116-a160
+3. Fleury, N., Geldenhuys, S., & Gorman, S. (2016). Sun exposure and its effects on human health: mechanisms through which sun exposure could reduce the risk of developing obesity and cardiometabolic dysfunction. International Journal of Environmental Research and Public Health, 13(10), [999]. https://doi.org/10.3390/ijerph13100999
+4. Kauser, S., Schallreuter, K. U., Thody, A. J., Tobin, D. J., & Gummer, C. (2003). Regulation of Human Epidermal Melanocyte Biology By β-Endorphin. Journal of Investigative Dermatology, 120(6), 1073-1080. doi:10.1046/j.1523-1747.2003.12242.x
+5. Monaghan, C., McIlvenna, L.C., Liddle, L. et al. The effects of two different doses of ultraviolet-A light exposure on nitric oxide metabolites and cardiorespiratory outcomes. Eur J Appl Physiol 1043–1052 (2018). https://doi.org/10.1007/s00421-018-3835-x
+6. Holliman, G., Lowe, D., Cohen, H. et al. Ultraviolet Radiation-Induced Production of Nitric Oxide:A multi-cell and multi-donor analysis. Sci Rep 7, 11105 (2017). https://doi.org/10.1038/s41598-017-11567-5
+7. Whitten, A. (2018). Red Light Therapy. Createspace Independent Publishing Platform.
+8. Verkhoshansky, Y., & Siff, M. C. (2009). Supertraining. Rome, Italy: Verkhoshansky.
+9. Gandini S, Sera F, Cattaruzza MS, Pasquini P, Abeni D, Boyle P, Melchi CF. Meta-analysis of risk factors for cutaneous melanoma: I. Common and atypical naevi. Eur J Cancer. 2005 Jan;41(1):28-44. doi: 10.1016/j.ejca.2004.10.015. PMID: 15617989.
+10. Samanek, A. J., Croager, E. J., Gies, P., Milne, E., Prince, R., Mcmichael, A. J., . . . Slevin, T. (2006). Estimates of beneficial and harmful sun exposure times during the year for major Australian population centres. Medical Journal of Australia, 184(7), 338-341. doi:10.5694/j.1326-5377.2006.tb00267.x
+11. Shanahan, C., & Shanahan, L. (2018). Deep nutrition: Why your genes need traditional food. New York: Flatiron Books.
+
