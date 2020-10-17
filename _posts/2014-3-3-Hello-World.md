@@ -17,5 +17,5 @@ While in Wisconsin, I had not yet dived into all things health and fitness so I 
 
 But what does this have to do with you? Well, the sun gets a bad rap due to the message of avoidance because of skin ageing and cancer; However, what follows are the reasons I believe getting a little more sun exposure will contribute to transforming your health, fitness, and performance:
 
-<h2>**Vitamin D**<h2>
+**<h2>Vitamin D<h2>**
 
