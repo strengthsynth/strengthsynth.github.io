@@ -119,6 +119,9 @@ Why? Because if you are more acclimatised to UV radiation then you aren’t as a
 >*Antioxidants including polyphenols, apigenin, curcumin, proanthocyanidins, resveratrol, and silymarin have shown promise in laboratory studies in protecting against UVR-induced skin cancer, perhaps through antimutagenic or immune-modulating mechanisms. (Mead, 2008)*
 
 **The sun plays a critical role in your health, fitness, and performance…go enjoy it (in moderation).**
+=====================================================================================================
+
+
 
 
 **References**
