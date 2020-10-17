@@ -5,8 +5,6 @@ title: Sunlight – Friend, Not Foe
 
 ![_config.yml]({{ site.baseurl }}/images/sunimg.jpg)
 
-Sunlight – Your Friend, Not Foe
-
 I know from first-hand experience the detrimental effects of not getting enough sunlight.
 
 Moving from sunny Australia, I went to study and play basketball in a city that sat on Lake Superior in the state of Wisconsin, USA. This was definitely different from what I was used to. Alongside the freezing weather, there was also a considerable lack of sunlight throughout the colder months of the year.
@@ -19,5 +17,5 @@ While in Wisconsin, I had not yet dived into all things health and fitness so I 
 
 But what does this have to do with you? Well, the sun gets a bad rap due to the message of avoidance because of skin ageing and cancer; However, what follows are the reasons I believe getting a little more sun exposure will contribute to transforming your health, fitness, and performance:
 
-##**Vitamin D**##
+<h2>**Vitamin D**##<h2>
 
