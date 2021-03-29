@@ -237,6 +237,7 @@ quantity are key.
 *Still not too sure?*
 =================================================================
 <br/>
+<br/>
 1. Choose some resistance training movements that feel right for you:
 <br/>
 -A 'Knee-dominant' Squat movement
@@ -248,7 +249,7 @@ quantity are key.
 -A 'Hip-dominant' Hinge movement
 <br/>
 -Some ab movements (heavy single arm carry and a plank)
-
+<br/>
 <br/>
 
 
