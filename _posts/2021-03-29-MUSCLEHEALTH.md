@@ -128,7 +128,7 @@ Americans over a number of years and concluded that:
 
 <br/>
 
-<*“Muscle mass, independent of fat mass and cardiovascular and metabolic risk
+>*“Muscle mass, independent of fat mass and cardiovascular and metabolic risk
 factors, is inversely associated with mortality risk in older adults”."
 
 <br/>
@@ -237,10 +237,15 @@ quantity are key.
 *Still not too sure?*
 =================================================================
 1. Choose some resistance training movements that feel right for you:
+<br/>
 -A squat movement
+<br/>
 -A Vertical push and pull movement
+<br/>
 -A Horizontal push and pull movement
--A hinge movement
+<br/>
+-A Hinge movement
+<br/>
 -Some ab movements (heavy single arm carry and a plank)
 
 <br/>
@@ -290,9 +295,27 @@ gladly help you create a program that’s right for you!.**
 ---------------
 
 1.Haines J, Neumark-Sztainer D. Prevention of obesity and eating disorders: a consideration of shared risk factors. Health Educ Res. 2006 Dec;21(6):770-82. doi: 10.1093/her/cyl094. Epub 2006 Sep 8. PMID: 16963727.
+
+<br/>
+
 2.Bigliassi, M, Galano, BM, Lima‐Silva, AE, Bertuzzi, R. Effects of mindfulness on psychological and psychophysiological responses during self‐paced walking. Psychophysiology. 2020; 57:e13529. https://doi.org/10.1111/psyp.13529
+
+<br/>
+
 3.Walston, Jeremy D. “Sarcopenia in older adults.” Current opinion in rheumatology vol. 24,6 (2012): 623-7. doi:10.1097/BOR.0b013e328358d59b
+
+<br/>
+
 4.Siparsky, Patrick N et al. “Muscle changes in aging: understanding sarcopenia.” Sports health vol. 6,1 (2014): 36-40. doi:10.1177/1941738113502296
+
+<br/>
+
 5.Jingxia Wu, Nina Weisshaar, Agnes Hotz-Wagenblatt, Alaa Madi, Sicong Ma, Alessa Mieg, Marvin Hering, Kerstin Mohr, Tilo Schlimbach, Helena Borgers, Guoliang Cui. Skeletal muscle antagonizes antiviral CD8 T cell exhaustion. Science Advances, 2020; 6 (24): eaba3458 DOI: 10.1126/sciadv.aba3458
+
+<br/>
+
 6.Muscedere J, Waters B, Varambally A, Bagshaw SM, Boyd JG, Maslove D, Sibley S, Rockwood K. The impact of frailty on intensive care unit outcomes: a systematic review and meta-analysis. Intensive Care Med. 2017 Aug;43(8):1105-1122. doi: 10.1007/s00134-017-4867-0. Epub 2017 Jul 4. PMID: 28676896; PMCID: PMC5501903.
+
+<br/>
+
 7.Srikanthan P, Karlamangla AS. Muscle mass index as a predictor of longevity in older adults. Am J Med. 2014 Jun;127(6):547-53. doi: 10.1016/j.amjmed.2014.02.007. Epub 2014 Feb 18. PMID: 24561114; PMCID: PMC4035379.
