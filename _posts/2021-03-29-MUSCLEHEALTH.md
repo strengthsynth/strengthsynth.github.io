@@ -236,15 +236,16 @@ quantity are key.
 
 *Still not too sure?*
 =================================================================
+<br/>
 1. Choose some resistance training movements that feel right for you:
 <br/>
--A squat movement
+-A 'Knee-dominant' Squat movement
 <br/>
 -A Vertical push and pull movement
 <br/>
 -A Horizontal push and pull movement
 <br/>
--A Hinge movement
+-A 'Hip-dominant' Hinge movement
 <br/>
 -Some ab movements (heavy single arm carry and a plank)
 
@@ -252,7 +253,7 @@ quantity are key.
 
 
 2. Make these movements hard enough for you that you can’t do that movement
-more than 20 times straight. Repeat those movements 2-3 times to start off with.
+more than 20 times straight. Repeat all movements 2 times through to start off with.
 
 <br/>
 
@@ -269,6 +270,10 @@ and find strategies to cope with stress a little better.
 could be done by doing more reps, adding more weight, having more range of
 motion, Increasing the time it takes you to do the movement, doing more rounds
 (sets) and so on... If you can’t beat it one way, try to beat it in another way.
+
+<br/>
+
+6. Once you start needing heavier weights, more sets, and more difficult exercises, break up the movements into separate sessions throughout the week. For example, you could start doing a 'push' session (vertical and horizontal pushing movements, + throw in some arm work) on day 1, a 'leg' session on day 2 (knee and hip dominant movements), and a 'pull' session (vertical and horizontal pulling movements, + ab work) on day 3. You could also keep doing full body workouts on each day but break up the number of sets you do among the sessions. There are multiple ways you can organise your training – play around with different variations and see what feels best.
 
 <br/>
 
