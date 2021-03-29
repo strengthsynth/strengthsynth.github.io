@@ -237,9 +237,8 @@ quantity are key.
 *Still not too sure?*
 =================================================================
 <br/>
-<br/>
-<br/>
 1. Choose some resistance training movements that feel right for you:
+<br/>
 <br/>
 -A 'Knee-dominant' Squat movement
 <br/>
