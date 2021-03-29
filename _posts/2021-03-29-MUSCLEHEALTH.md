@@ -278,12 +278,12 @@ motion, Increasing the time it takes you to do the movement, doing more rounds
 
 <br/>
 
-6. Try to get at least 3 sessions in a week while leaving adequate time in between
+7. Try to get at least 3 sessions in a week while leaving adequate time in between
 sessions to feel somewhat recovered.
 
 <br/>
 
-7. Repeat until you’re not progressing anymore and then you can start worrying
+8. Repeat until you’re not progressing anymore and then you can start worrying
 about diving deeper into ‘the optimal’ ways of building muscle that everyone
 loves to talk about.
 
