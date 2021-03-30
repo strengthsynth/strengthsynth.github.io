@@ -244,17 +244,17 @@ For someone new to resistance training, here's a pretty simple way to start:
 * Choose some resistance training movements that feel right for you:
 <br/>
 <br/>
-- A 'Knee-dominant' Squat movement (Eg. Heels elevated Goblet Squat)
+1/ A 'Knee-dominant' Squat movement (Eg. Heels elevated Goblet Squat)
 <br/>
-- A Vertical push and pull movement (Eg. Single-arm Kettlebell Press, Lat Pull-Down)
+2. A Vertical push and pull movement (Eg. Single-arm Kettlebell Press, Lat Pull-Down)
 <br/>
-- A Horizontal push and pull movement (Eg. Push-Up, Single-arm Kettlebell Row)
+3. A Horizontal push and pull movement (Eg. Push-Up, Single-arm Kettlebell Row)
 <br/>
-- A 'Hip-dominant' Hinge movement (Eg. Deadlift)
+4. A 'Hip-dominant' Hinge movement (Eg. Deadlift)
 <br/>
-- Some ab movements (Eg. Heavy single-arm carry and a plank)
+5. Some ab movements (Eg. Heavy single-arm carry and a plank)
 <br/>
-- A Lateral Movement (Eg. Lateral Squat)
+6. A Lateral Movement (Eg. Lateral Squat)
 
 <br/>
 
