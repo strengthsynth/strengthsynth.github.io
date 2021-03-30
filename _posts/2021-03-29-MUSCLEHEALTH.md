@@ -240,16 +240,18 @@ quantity are key.
 1. Choose some resistance training movements that feel right for you:
 <br/>
 <br/>
--A 'Knee-dominant' Squat movement
+-A 'Knee-dominant' Squat movement (Eg. Heels elevated Goblet Squat)
 <br/>
--A Vertical push and pull movement
+-A Vertical push and pull movement (Eg. Single-arm Kettlebell Press, Lat Pull-Down)
 <br/>
--A Horizontal push and pull movement
+-A Horizontal push and pull movement (Eg. Push-Up, Single-arm Kettlebell Row)
 <br/>
--A 'Hip-dominant' Hinge movement
+-A 'Hip-dominant' Hinge movement (Eg. Deadlift)
 <br/>
--Some ab movements (heavy single arm carry and a plank)
+-Some ab movements (Eg. Heavy single-arm carry and a plank)
 <br/>
+-A Lateral Movement (Eg. Lateral Squat)
+
 <br/>
 
 
