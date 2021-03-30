@@ -297,7 +297,7 @@ loves to talk about.
 
 **If you need more personal guidance, come and pop in the new studio and I’ll
 gladly help you create a program that’s right for you!.**
-=====================================================================================================
+=============================================================================
 
 <br/>
 <br/>
