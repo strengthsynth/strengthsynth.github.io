@@ -259,7 +259,6 @@ For someone new to resistance training, here's a pretty simple way to start:
 <br/>
 
 <br/>
-
 2. Make these movements hard enough for you that you can’t do that movement
 more than 20 times straight. Repeat all movements 2 times around to start off with.
 
