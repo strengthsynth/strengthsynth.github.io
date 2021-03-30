@@ -260,37 +260,30 @@ For someone new to resistance training, here's a pretty simple way to start:
 
 <br/>
 
-
 2. Make these movements hard enough for you that you can’t do that movement
 more than 20 times straight. Repeat all movements 2 times around to start off with.
 
 <br/>
-
 3. Record what you did.
 
 <br/>
-
 4. In between sessions, eat more protein, try to sleep well, get sunlight exposure
 and find strategies to cope with stress a little better.
 
 <br/>
-
 5. Next session do the same workout but try to beat your previous records. This
 could be done by doing more reps, adding more weight, having more range of
 motion, Increasing the time it takes you to do the movement, doing more rounds
 (sets) and so on... If you can’t beat it one way, try to beat it in another way.
 
 <br/>
-
 6. Once you start needing heavier weights, more sets, and more difficult exercises, break up the movements into separate sessions throughout the week. For example, you could start doing a 'push' session (vertical and horizontal pushing movements, + throw in some arm work) on day 1, a 'leg' session on day 2 (knee and hip dominant movements), and a 'pull' session (vertical and horizontal pulling movements, + ab work) on day 3. You could also keep doing full body workouts on each day but break up the number of sets you do among the sessions. There are multiple ways you can organise your training – play around with different variations and see what feels best.
 
 <br/>
-
 7. Try to get at least 3 sessions in a week while leaving adequate time in between
 sessions to feel somewhat recovered.
 
 <br/>
-
 8. Repeat until you’re not progressing anymore and then you can start worrying
 about diving deeper into ‘the optimal’ ways of building muscle that everyone
 loves to talk about.
@@ -308,28 +301,28 @@ gladly help you create a program that’s right for you!.**
 **References**
 ---------------
 
-1.Haines J, Neumark-Sztainer D. Prevention of obesity and eating disorders: a consideration of shared risk factors. Health Educ Res. 2006 Dec;21(6):770-82. doi: 10.1093/her/cyl094. Epub 2006 Sep 8. PMID: 16963727.
+1. Haines J, Neumark-Sztainer D. Prevention of obesity and eating disorders: a consideration of shared risk factors. Health Educ Res. 2006 Dec;21(6):770-82. doi: 10.1093/her/cyl094. Epub 2006 Sep 8. PMID: 16963727.
 
 <br/>
 
-2.Bigliassi, M, Galano, BM, Lima‐Silva, AE, Bertuzzi, R. Effects of mindfulness on psychological and psychophysiological responses during self‐paced walking. Psychophysiology. 2020; 57:e13529. https://doi.org/10.1111/psyp.13529
+2. Bigliassi, M, Galano, BM, Lima‐Silva, AE, Bertuzzi, R. Effects of mindfulness on psychological and psychophysiological responses during self‐paced walking. Psychophysiology. 2020; 57:e13529. https://doi.org/10.1111/psyp.13529
 
 <br/>
 
-3.Walston, Jeremy D. “Sarcopenia in older adults.” Current opinion in rheumatology vol. 24,6 (2012): 623-7. doi:10.1097/BOR.0b013e328358d59b
+3. Walston, Jeremy D. “Sarcopenia in older adults.” Current opinion in rheumatology vol. 24,6 (2012): 623-7. doi:10.1097/BOR.0b013e328358d59b
 
 <br/>
 
-4.Siparsky, Patrick N et al. “Muscle changes in aging: understanding sarcopenia.” Sports health vol. 6,1 (2014): 36-40. doi:10.1177/1941738113502296
+4. Siparsky, Patrick N et al. “Muscle changes in aging: understanding sarcopenia.” Sports health vol. 6,1 (2014): 36-40. doi:10.1177/1941738113502296
 
 <br/>
 
-5.Jingxia Wu, Nina Weisshaar, Agnes Hotz-Wagenblatt, Alaa Madi, Sicong Ma, Alessa Mieg, Marvin Hering, Kerstin Mohr, Tilo Schlimbach, Helena Borgers, Guoliang Cui. Skeletal muscle antagonizes antiviral CD8 T cell exhaustion. Science Advances, 2020; 6 (24): eaba3458 DOI: 10.1126/sciadv.aba3458
+5. Jingxia Wu, Nina Weisshaar, Agnes Hotz-Wagenblatt, Alaa Madi, Sicong Ma, Alessa Mieg, Marvin Hering, Kerstin Mohr, Tilo Schlimbach, Helena Borgers, Guoliang Cui. Skeletal muscle antagonizes antiviral CD8 T cell exhaustion. Science Advances, 2020; 6 (24): eaba3458 DOI: 10.1126/sciadv.aba3458
 
 <br/>
 
-6.Muscedere J, Waters B, Varambally A, Bagshaw SM, Boyd JG, Maslove D, Sibley S, Rockwood K. The impact of frailty on intensive care unit outcomes: a systematic review and meta-analysis. Intensive Care Med. 2017 Aug;43(8):1105-1122. doi: 10.1007/s00134-017-4867-0. Epub 2017 Jul 4. PMID: 28676896; PMCID: PMC5501903.
+6. Muscedere J, Waters B, Varambally A, Bagshaw SM, Boyd JG, Maslove D, Sibley S, Rockwood K. The impact of frailty on intensive care unit outcomes: a systematic review and meta-analysis. Intensive Care Med. 2017 Aug;43(8):1105-1122. doi: 10.1007/s00134-017-4867-0. Epub 2017 Jul 4. PMID: 28676896; PMCID: PMC5501903.
 
 <br/>
 
-7.Srikanthan P, Karlamangla AS. Muscle mass index as a predictor of longevity in older adults. Am J Med. 2014 Jun;127(6):547-53. doi: 10.1016/j.amjmed.2014.02.007. Epub 2014 Feb 18. PMID: 24561114; PMCID: PMC4035379.
+7. Srikanthan P, Karlamangla AS. Muscle mass index as a predictor of longevity in older adults. Am J Med. 2014 Jun;127(6):547-53. doi: 10.1016/j.amjmed.2014.02.007. Epub 2014 Feb 18. PMID: 24561114; PMCID: PMC4035379.
