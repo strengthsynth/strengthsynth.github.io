@@ -280,7 +280,7 @@ motion, Increasing the time it takes you to do the movement, doing more rounds
 
 <br/>
 <br/>
-* Once you start needing heavier weights, more sets, and more difficult exercises, break up the movements into separate sessions throughout the week. For example, you could start doing a 'push' session (vertical and horizontal pushing movements, + throw in some arm work) on day 1, a 'leg' session on day 2 (knee and hip dominant movements), and a 'pull' session (vertical and horizontal pulling movements, + ab work) on day 3. You could also keep doing full body workouts on each day but break up the number of sets you do among the sessions. There are multiple ways you can organise your training – play around with different variations and see what feels best.
+* Once you start needing heavier weights, more sets, and more difficult exercises, break up the movements into separate sessions throughout the week. For example, you could start doing a 'push' session (vertical and horizontal pushing movements, + throw in some arm work) on day 1, a 'leg' session on day 2 (knee and hip dominant + lateral movements), and a 'pull' session (vertical and horizontal pulling movements, + ab work) on day 3. You could also keep doing full body workouts on each day but break up the number of sets you do among the sessions. There are multiple ways you can organise your training – play around with different variations and see what feels best.
 
 <br/>
 <br/>
