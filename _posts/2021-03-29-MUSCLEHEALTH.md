@@ -241,55 +241,55 @@ quantity are key.
 For someone new to resistance training, here's a pretty simple way to start:
 
 <br/>
-1. Choose some resistance training movements that feel right for you:
+Choose some resistance training movements that feel right for you:
 <br/>
 <br/>
--A 'Knee-dominant' Squat movement (Eg. Heels elevated Goblet Squat)
+* A 'Knee-dominant' Squat movement (Eg. Heels elevated Goblet Squat)
 <br/>
--A Vertical push and pull movement (Eg. Single-arm Kettlebell Press, Lat Pull-Down)
+* A Vertical push and pull movement (Eg. Single-arm Kettlebell Press, Lat Pull-Down)
 <br/>
--A Horizontal push and pull movement (Eg. Push-Up, Single-arm Kettlebell Row)
+* A Horizontal push and pull movement (Eg. Push-Up, Single-arm Kettlebell Row)
 <br/>
--A 'Hip-dominant' Hinge movement (Eg. Deadlift)
+* A 'Hip-dominant' Hinge movement (Eg. Deadlift)
 <br/>
--Some ab movements (Eg. Heavy single-arm carry and a plank)
+* Some ab movements (Eg. Heavy single-arm carry and a plank)
 <br/>
--A Lateral Movement (Eg. Lateral Squat)
+* A Lateral Movement (Eg. Lateral Squat)
 
 <br/>
 
 <br/>
-2. Make these movements hard enough for you that you can’t do that movement
+Make these movements hard enough for you that you can’t do that movement
 more than 20 times straight. Repeat all movements 2 times around to start off with.
 
 <br/>
 <br/>
-3. Record what you did.
+Record what you did.
 
 <br/>
 <br/>
-4. In between sessions, eat more protein, try to sleep well, get sunlight exposure
+In between sessions, eat more protein, try to sleep well, get sunlight exposure
 and find strategies to cope with stress a little better.
 
 <br/>
 <br/>
-5. Next session do the same workout but try to beat your previous records. This
+Next session do the same workout but try to beat your previous records. This
 could be done by doing more reps, adding more weight, having more range of
 motion, Increasing the time it takes you to do the movement, doing more rounds
 (sets) and so on... If you can’t beat it one way, try to beat it in another way.
 
 <br/>
 <br/>
-6. Once you start needing heavier weights, more sets, and more difficult exercises, break up the movements into separate sessions throughout the week. For example, you could start doing a 'push' session (vertical and horizontal pushing movements, + throw in some arm work) on day 1, a 'leg' session on day 2 (knee and hip dominant movements), and a 'pull' session (vertical and horizontal pulling movements, + ab work) on day 3. You could also keep doing full body workouts on each day but break up the number of sets you do among the sessions. There are multiple ways you can organise your training – play around with different variations and see what feels best.
+Once you start needing heavier weights, more sets, and more difficult exercises, break up the movements into separate sessions throughout the week. For example, you could start doing a 'push' session (vertical and horizontal pushing movements, + throw in some arm work) on day 1, a 'leg' session on day 2 (knee and hip dominant movements), and a 'pull' session (vertical and horizontal pulling movements, + ab work) on day 3. You could also keep doing full body workouts on each day but break up the number of sets you do among the sessions. There are multiple ways you can organise your training – play around with different variations and see what feels best.
 
 <br/>
 <br/>
-7. Try to get at least 3 sessions in a week while leaving adequate time in between
+Try to get at least 3 sessions in a week while leaving adequate time in between
 sessions to feel somewhat recovered.
 
 <br/>
 <br/>
-8. Repeat until you’re not progressing anymore and then you can start worrying
+Repeat until you’re not progressing anymore and then you can start worrying
 about diving deeper into ‘the optimal’ ways of building muscle that everyone
 loves to talk about.
 
