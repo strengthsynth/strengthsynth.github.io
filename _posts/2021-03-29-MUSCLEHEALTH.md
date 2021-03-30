@@ -237,6 +237,10 @@ quantity are key.
 *Still not too sure?*
 =================================================================
 <br/>
+
+For someone new to resistance training, here's a pretty simple way to start:
+
+<br/>
 1. Choose some resistance training movements that feel right for you:
 <br/>
 <br/>
