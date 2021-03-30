@@ -254,7 +254,7 @@ quantity are key.
 
 
 2. Make these movements hard enough for you that you can’t do that movement
-more than 20 times straight. Repeat all movements 2 times through to start off with.
+more than 20 times straight. Repeat all movements 2 times around to start off with.
 
 <br/>
 
