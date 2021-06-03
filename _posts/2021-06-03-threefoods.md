@@ -33,7 +33,7 @@ Think sauerkraut, kombucha, tempeh, kefir, kimchi, yogurt and so on.
 As an example, let’s look at all of the good stuff that happens when milk is fermented (such as kefir):
 
 <br/>
-
+>
   *Results in increased antioxidant activity (you know how good antioxidants are)
   <br/>
   *Some studies show a blood-pressure lowering effect!
@@ -47,7 +47,7 @@ As an example, let’s look at all of the good stuff that happens when milk is f
   *Delivers lots of probiotics!
   <br/>
   (Melini et al., 2019)
-
+<
 <br/>
 
 If you’re eating grains/breads and suspect you’re a little gluten intolerant, the fermentation process can help with reducing your stomach issues while simultaneously increasing vitamin content and antioxidant activity.
