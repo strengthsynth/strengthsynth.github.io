@@ -47,7 +47,7 @@ As an example, let’s look at all of the good stuff that happens when milk is f
   *Delivers lots of probiotics!
   <br/>
   (Melini et al., 2019)
-<
+
 <br/>
 
 If you’re eating grains/breads and suspect you’re a little gluten intolerant, the fermentation process can help with reducing your stomach issues while simultaneously increasing vitamin content and antioxidant activity.
@@ -57,6 +57,7 @@ If you’re eating grains/breads and suspect you’re a little gluten intolerant
 Some other impressive benefits the process of fermentation delivers:
 
 <br/>
+>
   *Can improve the taste and texture of the food
   <br/>
   *Can reduce foodborne pathogens (less chance of food poisioning)
