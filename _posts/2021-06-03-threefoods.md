@@ -10,6 +10,7 @@ These foods aren’t always appealing to a lot of people. It’s easier just tak
 <br/>
 
 A major drawback to this approach is that supplements lack this amazing ‘food matrix’ – a collective relationship between a bunch of different nutrients that complement each other and offer much greater benefit than if these nutrients were consumed individually.
+
 <br/>
 
 This food matrix usually results in favourable amounts/ratios of various vitamins and minerals!
@@ -45,7 +46,7 @@ As an example, let’s look at all of the good stuff that happens when milk is f
   <br/>
   *Delivers lots of probiotics!
   <br/>
-  *(Melini et al., 2019)*
+  (Melini et al., 2019)
 
 <br/>
 
@@ -64,7 +65,7 @@ Some other impressive benefits the process of fermentation delivers:
   <br/>
   *Improvement in your gut health due to all of the probiotics (with all the research on gut health you can understand how beneficial that will be for your total health)
   <br/>
-  *(Bell et al., 2018)*
+  (Bell et al., 2018)
 <br/>
 <br/>
 
