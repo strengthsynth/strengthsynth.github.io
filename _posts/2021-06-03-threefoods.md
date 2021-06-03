@@ -33,31 +33,31 @@ As an example, let’s look at all of the good stuff that happens when milk is f
 
 <br/>
 
--Results in increased antioxidant activity (you know how good antioxidants are)
+  -Results in increased antioxidant activity (you know how good antioxidants are)
 
 <br/>
 
--Some studies show a blood-pressure lowering effect!
+  -Some studies show a blood-pressure lowering effect!
 
 <br/>
 
--Increased vitamin content (Folate, Vitamin K, Riboflavin)
+  -Increased vitamin content (Folate, Vitamin K, Riboflavin)
 
 <br/>
 
--Improved protein digestibility (it’s easier for your body to digest the protein)
+  -Improved protein digestibility (it’s easier for your body to digest the protein)
 
 <br/>
 
--Results in a reduction in lactose intolerance (for all those who can’t stomach dairy)
+  -Results in a reduction in lactose intolerance (for all those who can’t stomach dairy)
 
 <br/>
 
--Delivers lots of probiotics!
+  -Delivers lots of probiotics!
 
 <br/>
 
-*(Melini et al., 2019)
+  *(Melini et al., 2019)*
 
 <br/>
 
@@ -68,15 +68,23 @@ If you’re eating grains/breads and suspect you’re a little gluten intolerant
 Some other impressive benefits the process of fermentation delivers:
 
 <br/>
->-Can improve the taste and texture of the food
+  -Can improve the taste and texture of the food
+
 <br/>
->-Can reduce foodborne pathogens (less chance of food poisioning)
+
+  -Can reduce foodborne pathogens (less chance of food poisioning)
+
 <br/>
->-Can remove less ideal parts of  foods (such as phtytic acid)
+
+  -Can remove less ideal parts of  foods (such as phtytic acid)
+
 <br/>
->-Improvement in your gut health due to all of the probiotics (with all the research on gut health you probably know how beneficial that will be for your total health)
+
+  -Improvement in your gut health due to all of the probiotics (with all the research on gut health you can understand how beneficial that will be for your total health)
+
 <br/>
-*(Bell et al., 2018)
+
+  *(Bell et al., 2018)*
 <br/>
 <br/>
 
@@ -109,7 +117,7 @@ Furthermore, if you’re familiar with the work of Weston A Price, who studied d
 Some other impressive components of bone broth include proline and glycine:
 
 <br/>
->*Glycine is a precursor of things like creatine! It’s important for your immune system, it plays a role as a neurotransmitter, it assists your digestion/the absorption of fats, it can have anti-inflammatory and anticancer activity and is important for RNA and DNA pathways (epigenetics) (RAZAK ET AL., 2017).*
+>*Glycine is a precursor of things like creatine! It’s important for your immune system, it plays a role as a neurotransmitter, it assists your digestion/the absorption of fats, it can have anti-inflammatory and anticancer activity and is important for RNA and DNA pathways (epigenetics) (Razak et al., 2017).*
 
 <br/>
 
@@ -134,7 +142,6 @@ I don’t have much to say about organ meat other than it has to be one of the m
 To list all of the nutrients and their benefits would cover the next couple of pages.
 
 <br/>
-
 If you think you may be missing a key nutrient in your diet, something like well-sourced (free range/organic/antibiotic-free) chicken liver will cover your bases, and this has the potential to help you feel a lot better too.
 
 <br/>
@@ -149,18 +156,25 @@ These foods very rarely showed up in my diet before I started diving into the he
 Some more palatable ways I have since incorporated all of these foods into my diet:
 
 <br/>
->-Try having some sauerkraut or other fermented vegetable alongside your eggs. For me personally, after some time getting used to it, I can now no longer enjoy eggs without some accompanying sauerkraut.
+  -Try having some sauerkraut or other fermented vegetable alongside your eggs. For me personally, after some time getting used to it, I can now no longer enjoy eggs without some    accompanying sauerkraut.
+  
 <br/>
->-Some people enjoy sipping a straight up mug of bone broth but I found that cooking the majority of my meals in it, and especially throwing it in the slow cooker, makes my meals considerably tastier. I also tend to use it to heat up many of my meals.
+  -Some people enjoy sipping a straight up mug of bone broth but I found that cooking the majority of my meals in it, and especially throwing it in the slow cooker, makes my meals   considerably tastier. I also tend to use it to heat up many of my meals.
+  
 <br/>
->-My solution to eating chicken liver is in the form of pâté or mixed in with beef mince.
+  -My solution to eating chicken liver is in the form of pâté or mixed in with beef mince.
+  
 <br/>
+
 There are a number of different recommendations and ways of incorporating this food, it’s just about finding ones that taste best for you.
 <br/>
+
 Another consideration is that these foods should be sourced with an emphasis on quality. The bone broth should ideally be from organic bones and the same goes for making sure the chicken livers/organ meat is from free-range and antibiotic-free animals.
 <br/>
+
 Nutritional deficiencies can wreak considerably more havoc than you may suspect. There’s definitely a place for specific testing and supplementing to address these deficiencies – I think it’s very important.
 <br/>
+
 However, if you’re generally healthy and not looking to go down the testing and specific supplementation route, these food additions may fill some nutritional holes in your diet and contribute positively to your health and fitness pursuits.
 <br/>
 
