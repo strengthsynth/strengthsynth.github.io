@@ -147,36 +147,39 @@ Some more palatable ways I have since incorporated all of these foods into my di
 <br/>
 
 There are a number of different recommendations and ways of incorporating this food, it’s just about finding ones that taste best for you.
+
 <br/>
 
 Another consideration is that these foods should be sourced with an emphasis on quality. The bone broth should ideally be from organic bones and the same goes for making sure the chicken livers/organ meat is from free-range and antibiotic-free animals.
+
 <br/>
 
 Nutritional deficiencies can wreak considerably more havoc than you may suspect. There’s definitely a place for specific testing and supplementing to address these deficiencies – I think it’s very important.
+
 <br/>
 
 However, if you’re generally healthy and not looking to go down the testing and specific supplementation route, these food additions may fill some nutritional holes in your diet and contribute positively to your health and fitness pursuits.
+
 <br/>
 
 **References**
 ---------------
 
-1. Melini, F., Melini, V., Luziatelli, F., Ficca, A. G., & Ruzzi, M. (2019). Health-Promoting Components in Fermented Foods: An Up-to-Date Systematic Review. Nutrients, 11(5), 1189. https://doi.org/10.3390/nu11051189![image](https://user-images.githubusercontent.com/72716450/120571725-10a2b280-c45e-11eb-9fd7-d279f68908e8.png)
+1. Melini, F., Melini, V., Luziatelli, F., Ficca, A. G., & Ruzzi, M. (2019). Health-Promoting Components in Fermented Foods: An Up-to-Date Systematic Review. Nutrients, 11(5), 1189. https://doi.org/10.3390/nu11051189!
 
 
 <br/>
 
-2.Bell, V., Ferrão, J., Pimentel, L., Pintado, M., & Fernandes, T. (2018). One Health, Fermented Foods, and Gut Microbiota. Foods (Basel, Switzerland), 7(12), 195. https://doi.org/10.3390/foods7120195![image](https://user-images.githubusercontent.com/72716450/120571740-18625700-c45e-11eb-9f7f-a82da6ae35ba.png)
+2.Bell, V., Ferrão, J., Pimentel, L., Pintado, M., & Fernandes, T. (2018). One Health, Fermented Foods, and Gut Microbiota. Foods (Basel, Switzerland), 7(12), 195. https://doi.org/10.3390/foods7120195!
 
 <br/>
 
-3. Razak, M. A., Begum, P. S., Viswanath, B., & Rajagopal, S. (2017). Multifarious Beneficial Effect of Nonessential Amino Acid, Glycine: A Review. Oxidative medicine and cellular longevity, 2017, 1716701. https://doi.org/10.1155/2017/1716701![image](https://user-images.githubusercontent.com/72716450/120571759-2021fb80-c45e-11eb-8ac8-3acfe69ec1d0.png)
+3. Razak, M. A., Begum, P. S., Viswanath, B., & Rajagopal, S. (2017). Multifarious Beneficial Effect of Nonessential Amino Acid, Glycine: A Review. Oxidative medicine and cellular longevity, 2017, 1716701. https://doi.org/10.1155/2017/1716701!
+<br/>
+
+4. Kawai, N., Sakai, N., Okuro, M., Karakawa, S., Tsuneyoshi, Y., Kawasaki, N., Takeda, T., Bannai, M., & Nishino, S. (2015). The sleep-promoting and hypothermic effects of glycine are mediated by NMDA receptors in the suprachiasmatic nucleus. Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology, 40(6), 1405–1416. https://doi.org/10.1038/npp.2014.326!
 
 <br/>
 
-4. Kawai, N., Sakai, N., Okuro, M., Karakawa, S., Tsuneyoshi, Y., Kawasaki, N., Takeda, T., Bannai, M., & Nishino, S. (2015). The sleep-promoting and hypothermic effects of glycine are mediated by NMDA receptors in the suprachiasmatic nucleus. Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology, 40(6), 1405–1416. https://doi.org/10.1038/npp.2014.326![image](https://user-images.githubusercontent.com/72716450/120571777-2912cd00-c45e-11eb-85e5-0139f369184f.png)
-
-<br/>
-
-5. Wu, G., Bazer, F. W., Burghardt, R. C., Johnson, G. A., Kim, S. W., Knabe, D. A., Li, P., Li, X., McKnight, J. R., Satterfield, M. C., & Spencer, T. E. (2011). Proline and hydroxyproline metabolism: implications for animal and human nutrition. Amino acids, 40(4), 1053–1063. https://doi.org/10.1007/s00726-010-0715-z![image](https://user-images.githubusercontent.com/72716450/120571796-316b0800-c45e-11eb-84e0-70fddd0ac523.png)
+5. Wu, G., Bazer, F. W., Burghardt, R. C., Johnson, G. A., Kim, S. W., Knabe, D. A., Li, P., Li, X., McKnight, J. R., Satterfield, M. C., & Spencer, T. E. (2011). Proline and hydroxyproline metabolism: implications for animal and human nutrition. Amino acids, 40(4), 1053–1063. https://doi.org/10.1007/s00726-010-0715-z!
 
