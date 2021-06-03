@@ -121,7 +121,6 @@ I don’t have much to say about organ meat other than it has to be one of the m
 <br/>
 
 To list all of the nutrients and their benefits would cover the next couple of pages.
-
 <br/>
 If you think you may be missing a key nutrient in your diet, something like well-sourced (free range/organic/antibiotic-free) chicken liver will cover your bases, and this has the potential to help you feel a lot better too.
 
