@@ -96,18 +96,14 @@ Furthermore, if you’re familiar with the work of Weston A Price, who studied d
 
 <br/>
 Some other impressive components of bone broth include proline and glycine:
-
 <br/>
 >*Glycine is a precursor of things like creatine! It’s important for your immune system, it plays a role as a neurotransmitter, it assists your digestion/the absorption of fats, it can have anti-inflammatory and anticancer activity and is important for RNA and DNA pathways (epigenetics) (Razak et al., 2017).*
 
 <br/>
-
 >*And there’s evidence that it helps your sleep quality (Kawai et al., 2015).*
-
 <br/>
 
 >*Proline also has a large number of roles, contributing to protein synthesis, metabolism, wound healing and your immune response, among others. (Wu et al., 2011)*
-
 <br/>
 
 There’s also glutamine and a bunch of beneficial minerals!
