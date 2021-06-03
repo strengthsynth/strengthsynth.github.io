@@ -114,10 +114,13 @@ There’s also glutamine and a bunch of beneficial minerals!
 ===================
 
 I don’t have much to say about organ meat other than it has to be one of the most nutrient-dense foods there are.
+
 <br/>
 
 To list all of the nutrients and their benefits would cover the next couple of pages.
+
 <br/>
+
 If you think you may be missing a key nutrient in your diet, something like well-sourced (free range/organic/antibiotic-free) chicken liver will cover your bases, and this has the potential to help you feel a lot better too.
 
 <br/>
@@ -163,7 +166,6 @@ However, if you’re generally healthy and not looking to go down the testing an
 
 1. Melini, F., Melini, V., Luziatelli, F., Ficca, A. G., & Ruzzi, M. (2019). Health-Promoting Components in Fermented Foods: An Up-to-Date Systematic Review. Nutrients, 11(5), 1189. https://doi.org/10.3390/nu11051189!
 
-
 <br/>
 
 2.Bell, V., Ferrão, J., Pimentel, L., Pintado, M., & Fernandes, T. (2018). One Health, Fermented Foods, and Gut Microbiota. Foods (Basel, Switzerland), 7(12), 195. https://doi.org/10.3390/foods7120195!
@@ -171,6 +173,7 @@ However, if you’re generally healthy and not looking to go down the testing an
 <br/>
 
 3. Razak, M. A., Begum, P. S., Viswanath, B., & Rajagopal, S. (2017). Multifarious Beneficial Effect of Nonessential Amino Acid, Glycine: A Review. Oxidative medicine and cellular longevity, 2017, 1716701. https://doi.org/10.1155/2017/1716701!
+
 <br/>
 
 4. Kawai, N., Sakai, N., Okuro, M., Karakawa, S., Tsuneyoshi, Y., Kawasaki, N., Takeda, T., Bannai, M., & Nishino, S. (2015). The sleep-promoting and hypothermic effects of glycine are mediated by NMDA receptors in the suprachiasmatic nucleus. Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology, 40(6), 1405–1416. https://doi.org/10.1038/npp.2014.326!
