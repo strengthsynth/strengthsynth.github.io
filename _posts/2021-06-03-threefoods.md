@@ -33,12 +33,13 @@ As an example, let’s look at all of the good stuff that happens when milk is f
 
 <br/>
 
-  -Results in increased antioxidant activity (you know how good antioxidants are)
-  -Some studies show a blood-pressure lowering effect!
-  -Increased vitamin content (Folate, Vitamin K, Riboflavin)
-  -Improved protein digestibility (it’s easier for your body to digest the protein)
-  -Results in a reduction in lactose intolerance (for all those who can’t stomach dairy)
-  -Delivers lots of probiotics!
+  *Results in increased antioxidant activity (you know how good antioxidants are)
+  *Some studies show a blood-pressure lowering effect!
+  *Increased vitamin content (Folate, Vitamin K, Riboflavin)
+  *Improved protein digestibility (it’s easier for your body to digest the protein)
+  *Results in a reduction in lactose intolerance (for all those who can’t stomach dairy)
+  *Delivers lots of probiotics!
+  <br/>
   *(Melini et al., 2019)*
 
 <br/>
@@ -50,10 +51,11 @@ If you’re eating grains/breads and suspect you’re a little gluten intolerant
 Some other impressive benefits the process of fermentation delivers:
 
 <br/>
-  -Can improve the taste and texture of the food
-  -Can reduce foodborne pathogens (less chance of food poisioning)
-  -Can remove less ideal parts of  foods (such as phtytic acid)
-  -Improvement in your gut health due to all of the probiotics (with all the research on gut health you can understand how beneficial that will be for your total health)
+  *Can improve the taste and texture of the food
+  *Can reduce foodborne pathogens (less chance of food poisioning)
+  *Can remove less ideal parts of  foods (such as phtytic acid)
+  *Improvement in your gut health due to all of the probiotics (with all the research on gut health you can understand how beneficial that will be for your total health)
+  <br/>
   *(Bell et al., 2018)*
 <br/>
 <br/>
