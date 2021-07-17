@@ -3,7 +3,7 @@ layout: post
 title: Mental Aspect
 ---
 
-![_config.yml]({{ site.baseurl }}/images/threefoodsfinal.jpg)
+![_config.yml]({{ site.baseurl }}/images/mental-health-2313426_1280.png)
 
 There is no shortage of information on how certain health and fitness practices will benefit you.
 
