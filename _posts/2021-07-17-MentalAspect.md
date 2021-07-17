@@ -21,7 +21,7 @@ The most common barriers are not having enough time, not being able to find the 
 
 <br/>
 
-I wish I had an easy solution to the time constraint barrier, however this may just come down to the individual placing greater priority on their health and fitness. Unfortunately improving your health and fitness is time consuming, and any well-marketed gadget or supplement that claims otherwise is taking your money.
+I wish I had an easy solution for the time constraint barrier, however this may just come down to the individual placing greater priority on their health and fitness. Unfortunately improving your health and fitness is time consuming, and any well-marketed gadget or supplement that claims otherwise is taking your money.
 
 <br/>
 
