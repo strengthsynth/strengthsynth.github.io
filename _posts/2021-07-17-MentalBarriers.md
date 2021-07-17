@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mental Aspect
+title: Mental Barriers
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/mental-health-2313426_1280.png)
