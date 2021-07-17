@@ -87,7 +87,7 @@ I’m a big fan of treating the periods of discomfort within training as almost 
 
 The same can be applied when you’re in an uncomfortable training session/exercise. You notice the discomfort, know it’s not doing you any harm (quite the opposite), and just accept it and know it’s advantageous for you. I personally find this helps me push further than I’d be able to otherwise, and it’s just great embracing the suck and knowing that I’m improving.
 
-<br/
+<br/>
 
 I thought surely everyone could learn to think about it this way and enjoy training the same way I do?
 
