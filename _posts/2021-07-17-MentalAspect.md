@@ -54,12 +54,16 @@ Building a habit is a whole challenge in itself, but it’s also the solution to
 <br/>
 
   * The behaviour you’re choosing should have some context. Give it a time and place. Eg. “I’m going to do the Strength Synth workout at 7am at on Monday, Wednesday, and Friday before the work day starts.”
+  
   <br/>
   * The new behaviour should be a small change, not a complete overhaul of everything (for example, "I will start with a 20 minute workout 3 days a week" instead of "I will start a 6-day a week program where you train for 1 hour each day".)
+  
   <br/>
   * Know that it will get easier over time. If you’re doing the behaviour daily, you can expect it to take around 10 weeks to become a habit. It may sound like a long time, but it will continue to get easier to implement.
+  
   <br/>
   * Try to focus on the small changes that are happening because of your new behaviour (enjoy the process). For example, you may notice that you sleep a lot better or are more productive on the days that you train. Celebrate the small wins on the way to your end goal!
+  
   <br/>
   * Have a way to monitor the new behaviour. This way, when you see that you’ve been doing it consistently, it reinforces the fact that you’re able to achieve this goal and should bring you some satisfaction. You could set up something like a streak tally.
   <br/>
@@ -113,18 +117,22 @@ You could still view this as a form of mindfulness meditation, but you’re focu
 
 <br/>
 
-So how would this look ‘dissociative coping strategy’ work when your legs are on fire during a training session?
+So how would this ‘dissociative coping strategy’ work when your legs are on fire during a training session?
 
 <br/>
 
   * You could direct your attention to how your arms or other body part feels.
   <br/>
+  
   * You could find something in the room/outdoors to place your focus on instead.
   <br/>
+  
   * You could think about how good you will feel once the session is over or once you've achieved your goals.
   <br/>
+  
   * It's a little less meditative in nature, but you could also continue chatting to your chatty trainer and get lost in conversation (as long as you still have enough focus on completing the task the correct way).
   <br/>
+  
  <br/>
  
  Now obviously it’s not as black and white as using either ‘associative coping strategies’ or ‘dissociative coping strategies’, as there is lots of variability and fluidity in what you may think or focus on during physical activity. However, I think it offers a nice little framework for the fact that people may need to find their own way of focusing within physical activity and not necessarily ‘embrace the burn’ which seems to be a firmly held belief in the fitness community of how to deal with uncomfortable sensations during exercise.
@@ -133,11 +141,11 @@ So how would this look ‘dissociative coping strategy’ work when your legs ar
  
  **IN SUMMARY**
  
- 1. Using some of the habit building strategies, develop a plan to make a health and fitness behavior a lasting habit rather than trying to ‘find the motivation’.
+ * Using some of the habit building strategies, develop a plan to make a health and fitness behavior a lasting habit rather than trying to ‘find the motivation’.
  
  <br/>
  
- 2. When exercising and beginning to feel some discomfort, start playing around with different ways of focusing your attention/feelings/thoughts and practice getting into a meditative state. Exercise may just start becoming your meditation practice too.
+ * When exercising and beginning to feel some discomfort, start playing around with different ways of focusing your attention/feelings/thoughts and practice getting into a meditative state. Exercise may just start becoming your meditation practice too.
  
  <br/>
  
