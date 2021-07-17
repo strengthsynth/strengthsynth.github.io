@@ -25,7 +25,7 @@ I wish I had an easy solution for the time constraint barrier, however this may 
 
 <br/>
 
-For the other two barriers, I hope there is something of value here that helps!
+For the two other barriers, I hope there is something of value here that helps!
 
 **Finding Motivation**
 =============
