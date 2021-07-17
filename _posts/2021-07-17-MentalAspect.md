@@ -13,7 +13,7 @@ The majority of people are aware of behaviors they should be implementing that w
 
 <br/>
 
-The issue lies in overcoming the barriers preventing them from consistenlty implementing these behaviors (such as exercise).
+The issue lies in overcoming the barriers preventing them from consistenlty implementing these behaviors.
 
 <br/>
 
